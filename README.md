@@ -1,0 +1,2 @@
+# nextjs
+Plataforma de administración
